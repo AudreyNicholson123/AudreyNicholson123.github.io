@@ -5,7 +5,7 @@ html, body, div, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, 
     img {
         width: 100%; /*Please leave this line.*/
         display: block;
-    }
+        }
 
     h1{
         font-family: "sutro";
@@ -28,7 +28,7 @@ html, body, div, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, 
         padding-bottom: 1em;
         padding-left: 0.7em;
         }
-        
+
 /* Under photo caption*/
     figcaption {
         color: rgb( 30, 30, 30);
